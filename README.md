@@ -1,5 +1,4 @@
 # Android Gallery Viewer Example
---------------
 
 Example getting images from Android device and loading into app.
 
