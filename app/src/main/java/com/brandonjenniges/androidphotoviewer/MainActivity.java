@@ -1,4 +1,4 @@
-package com.brandonjenniges.androidgalleryviewerexample;
+package com.brandonjenniges.androidphotoviewer;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

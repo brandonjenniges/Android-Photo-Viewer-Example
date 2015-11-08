@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">AndroidGalleryViewerExample</string>
+    <string name="app_name">AndroidPhotoViewerExample</string>
     <string name="action_settings">Settings</string>
 </resources>
